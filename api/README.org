@@ -1,0 +1,5 @@
+#+TITLE: Api for Sample_Ecommerce
+#+AUTHOR: Hugo de Oliveira Resende
+
+* LICENSE
+Information about the license is found in file [[LICENSE]]
